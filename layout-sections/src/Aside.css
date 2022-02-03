@@ -1,0 +1,8 @@
+.Aside{
+    height: 300px;
+    width: 20%;
+    background: lightgreen;
+    float: left;
+    justify-content: 'center';
+    line-height: 300px;
+}

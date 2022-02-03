@@ -1,0 +1,8 @@
+.Footer{
+    height: 200px;
+    background: orange;
+    clear: both;
+    flex: 1;
+    justify-content: 'center';
+    line-height: 200px;
+}
